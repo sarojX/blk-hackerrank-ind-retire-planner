@@ -1,1 +1,1 @@
-# blk-hackerrank-ind-retire-planner
+Production-grade financial API system for automated retirement savings through expense rounding, temporal investment constraints (q, p, k periods), NPS and Index Fund return calculations, tax benefit computation, inflation-adjusted projections, and Dockerized deployment on port 5477.
