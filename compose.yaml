@@ -1,0 +1,6 @@
+services:
+  api:
+    build: .
+    image: blk-hacking-ind-openai-codex
+    ports:
+      - "5477:5477"
